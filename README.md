@@ -62,25 +62,30 @@ Built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and fully r
 ```bash
 git clone https://github.com/Vnill125/appfilm.git
 cd appfilm
+```
 
 ### 2. Install dependencies
 ```bash
 git clone https://github.com/Vnill125/appfilm.git
 cd appfilm
+```
 
 ### 3. Set up environment variables
 Create a .env file in the root with your TMDB API key:
 ```env
 VITE_TMDB_API_KEY=your_api_key_here
+```
 
 ### 4. Run locally
 ```bash
 npm run dev
+```
 
 
 📦 Build for production
 ```bash
 npm run build
+```
 
 🌍 Deployment
 
