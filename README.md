@@ -66,8 +66,7 @@ cd appfilm
 
 ### 2. Install dependencies
 ```bash
-git clone https://github.com/Vnill125/appfilm.git
-cd appfilm
+npm install
 ```
 
 ### 3. Set up environment variables
