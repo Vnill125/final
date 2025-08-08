@@ -37,6 +37,9 @@ Built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and fully r
 ### Favorites
 ![Favorites](./screenshots/favorites.png)
 
+### NotFound
+![NotFound](./screenshots/404.png)
+
 ---
 
 ## 🎥 Demo (GIF)
